@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QrLibrary</string>
+    <string name="qr_code">Qr Code</string>
+</resources>
